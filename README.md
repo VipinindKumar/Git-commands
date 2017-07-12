@@ -45,3 +45,19 @@ Basic Git commands for future reference
 
 >pull the changes made in the remote repository
 
+---
+
+## Merge conflicts
+
+```C
+int a = 1;
+<<<<<<<<<<<< HEAD
+int b = 2;
+============
+int b = 0;
+>>>>>>>>>>>> 5428973695827389457345e
+int c = 3;
+int d = 4;
+```
+
+>Keep the line you want to keep and delete everything else in the conflict
