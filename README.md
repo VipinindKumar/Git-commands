@@ -12,6 +12,7 @@ Basic Git commands for future reference
 ### git config
 
 >git config --global user.name "name"
+
 >git config --global user.email "email"
 
 ---
