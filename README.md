@@ -1,4 +1,8 @@
 # Git-commands
 Basic Git commands for future reference
 
-// working
+
+##To add ssh key to Github
+
+
+... ldskjfalksdjflkj
