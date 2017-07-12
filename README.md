@@ -19,4 +19,4 @@ Basic Git commands for future reference
 
 ### Git diff:
 
->git diff, show all the changes made
+>**git diff**,  show all the changes made
