@@ -13,4 +13,10 @@ Basic Git commands for future reference
 
 >git config --global user.email "email"
 
-### lksadjf
+### Git clone:
+
+>git clone <url-of-repository>
+
+### Git diff:
+
+>git diff, show all the changes made
