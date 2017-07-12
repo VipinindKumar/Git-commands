@@ -45,6 +45,12 @@ Basic Git commands for future reference
 
 >pull the changes made in the remote repository
 
+### git log:
+
+>shows history of commits and messages
+
+### git reset
+
 ---
 
 ## Merge conflicts
