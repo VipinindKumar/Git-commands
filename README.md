@@ -49,7 +49,11 @@ Basic Git commands for future reference
 
 >shows history of commits and messages
 
-### git reset
+### git reset --hard <commit>
+
+>reset to a previous commit
+
+>git reset --hard origin/master, back to remote repository version
 
 ---
 
