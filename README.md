@@ -17,6 +17,10 @@ Basic Git commands for future reference
 
 >git clone <url-of-repository>
 
+### git init
+
+>create a git repository
+
 ### git diff
 
 >show all the changes made
