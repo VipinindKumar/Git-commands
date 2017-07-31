@@ -1,3 +1,6 @@
+# How to Write a Git Commit Message
+https://chris.beams.io/posts/git-commit/
+
 # Git-commands
 Basic Git commands for future reference
 
