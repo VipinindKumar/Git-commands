@@ -18,7 +18,7 @@ Basic Git commands for future reference
 
 ### git clone
 
->git clone <url-of-repository>
+>git clone url-of-repository
 
 ### git init
 
@@ -28,7 +28,7 @@ Basic Git commands for future reference
 
 >show all the changes made
 
-### git add <file-name>
+### git add file-name
 
 >add to the changes you want to track
 
@@ -56,7 +56,7 @@ Basic Git commands for future reference
 
 >shows history of commits and messages
 
-### git reset --hard <commit>
+### git reset --hard #commit
 
 >reset to a previous commit
 
@@ -87,22 +87,22 @@ int d = 4;
 
 >shows all branches
 
-### git branch <branch-name>
+### git branch branch-name
 
 >new branch
 
-### git checkout <branch-name>
+### git checkout branch-name
 
 >switch to a branch
 
-### git checkout -b <branch-name>
+### git checkout -b branch-name
 
 >new branch and switch to it
 
-### git merge <branch-name>
+### git merge branch-name
 
 >merges <branch-name> with current branch
 
-### git branch -D <branch-name>
+### git branch -D branch-name
 
 >delete branch (-d gives a soft delete)
