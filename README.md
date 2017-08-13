@@ -16,7 +16,7 @@ Basic Git commands for future reference
 
 >git config --global user.email "email"
 
-### git clone
+### git clone (When staring a new remote repository, it's better to use git clone)
 
 >git clone url-of-repository
 
@@ -106,3 +106,7 @@ int d = 4;
 ### git branch -D branch-name
 
 >delete branch (-d gives a soft delete)
+
+## Merging two separately origined repositories
+
+### git pull origin branchname --allow-unrelated-histories
