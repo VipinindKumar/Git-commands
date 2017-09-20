@@ -2,17 +2,17 @@
 https://chris.beams.io/posts/git-commit/
 
 
-## Git commands for merging your local directory with a remote repository
+# Git commands for merging your local directory with a remote repository
 
-# git init
+## git init
 
 >First create a local repository
 
-# git remote add origin <urlOfRemoteRepository>
+## git remote add origin <urlOfRemoteRepository>
 
 >add remote repository origin to local repository
 
-# git pull origin master
+## git pull origin master
 
 >merge the two repsitories
 
