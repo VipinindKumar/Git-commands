@@ -1,6 +1,22 @@
 # How to Write a Git Commit Message
 https://chris.beams.io/posts/git-commit/
 
+
+## Git commands for merging your local directory with a remote repository
+
+# git init
+
+>First create a local repository
+
+# git remote add origin <urlOfRemoteRepository>
+
+>add remote repository origin to local repository
+
+# git pull origin master
+
+>merge the two repsitories
+
+
 # Git-commands
 Basic Git commands for future reference
 
