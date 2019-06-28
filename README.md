@@ -5,6 +5,8 @@ https://chris.beams.io/posts/git-commit/
 # Git commands for merging your local directory with a remote repository
 
 ## git init
+   git add .
+   git commit -m "first commit"
 
 >First create a local repository
 
