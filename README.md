@@ -4,6 +4,14 @@ https://chris.beams.io/posts/git-commit/
 
 # Git commands for merging your local directory with a remote repository
 
+## Create new repo
+   1. Create new repository on github
+   2. copy https code downlod url
+   3. In Git bash do:
+   > git clone https://restoftheurl.com/repositorymadejjustnow.git
+   
+   \# make sure to not use ctrl+v to paste in git bash, it will add hidden ^? or something.
+
 ## git init
    git add .
    git commit -m "first commit"
